@@ -2,7 +2,7 @@
     <img src="https://i.pinimg.com/736x/5d/5d/22/5d5d226151f9cd1e8087bc84a1b03a90.jpg" style="max-width: 100%; height: auto; display: block; margin: 0 auto;" />
 </div>
 
-<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> I'm Elias Rosales</h1>
+<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> I'm Elias Enoc Rosales Torres </h1>
 
 <div align="center">
     <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=Computer+Science+Student;Digital+Forensics" alt="Headline" />
